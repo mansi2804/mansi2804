@@ -5,13 +5,19 @@ Welcome to my GitHub profile!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working on building awesome projects and honing my coding skills.
+  
 - 🌱 I’m currently learning new technologies and techniques to stay ahead in the game.
+  
 - 👯 I’m looking to collaborate on interesting and impactful open-source projects.
+  
 - 🤔 I’m looking for help with optimizing code performance and design patterns.
+  
 - 💬 Ask me about anything related to software development, web technologies, or programming languages.
+  
 - 📫 How to reach me: patil.mansi.narendra@gmail.com
                                or
                       https://www.linkedin.com/in/mansi-patil28/
+  
 - ⚡ Fun fact: I love to dance 💃 and explore new places 🌍!
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,8 +31,9 @@ Welcome to my GitHub profile!
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansi2804&" alt="mansi2804" /></p>
 <br>
 
-## Helpful YouTube Channels 🎥
 
+  <h3 align="center"> Helpful YouTube Channels 🎥</h3>
+  
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb) - Web development tutorials
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) - Front-end and back-end tutorials
 - [Codecademy](https://www.youtube.com/user/Codecademy) - Programming language tutorials
@@ -39,7 +46,7 @@ Explore these channels for valuable learning resources!
 
 "🚀 I’m passionate about continuous learning and staying updated with the latest technologies."
 
-## Helpful Blogs 📝
+  <h3 align="center"> Helpful Blogs 📝 </h3> 
 
 - [CSS-Tricks](https://css-tricks.com/) - CSS tutorials and tricks
 - [Smashing Magazine](https://www.smashingmagazine.com/) - Web design and development articles
@@ -52,8 +59,9 @@ Explore these channels for valuable learning resources!
 
 Explore these blogs for valuable insights and tutorials!
 
-## Important News Sources 📰
 
+  <h3 align="center">  Important News Sources 📰</h3> 
+  
 - [TechCrunch](https://techcrunch.com/) - Tech news and startups
 - [The Verge](https://www.theverge.com/) - Technology, science, and culture
 - [Ars Technica](https://arstechnica.com/) - Technology news and analysis
