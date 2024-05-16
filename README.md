@@ -2,6 +2,7 @@
 Welcome to my GitHub profile!
 
 **I’m a student and exploring various software development projects.**
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working on building awesome projects and honing my coding skills.
 - 🌱 I’m currently learning new technologies and techniques to stay ahead in the game.
