@@ -9,7 +9,9 @@ I’m currently pursuing my master's degree and exploring various software devel
 - 👯 I’m looking to collaborate on interesting and impactful open-source projects.
 - 🤔 I’m looking for help with optimizing code performance and design patterns.
 - 💬 Ask me about anything related to software development, web technologies, or programming languages.
-- 📫 How to reach me: patil.mansi.narendra@gmail.com or https://www.linkedin.com/in/mansi-patil28/
+- 📫 How to reach me: patil.mansi.narendra@gmail.com
+                               or
+                      https://www.linkedin.com/in/mansi-patil28/
 - ⚡ Fun fact: I love to dance 💃 and explore new places 🌍!
 
 ## Helpful YouTube Channels
