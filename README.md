@@ -77,5 +77,7 @@ Stay updated with the latest tech news and trends from these sources!
 "🚀 Embrace the journey of learning—it's not just about acquiring new skills, but unlocking the potential to turn dreams into reality! 🌟"
 
 Feel free to explore my repositories and connect with me! Let's build something amazing together. 😊🚀
-
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/mansi-patil28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mansi-patil28" height="30" width="40" /></a>
+</p>
 
