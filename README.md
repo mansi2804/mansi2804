@@ -1,5 +1,6 @@
 # Hi there! 👋
 Welcome to my GitHub profile!
+
 I’m currently pursuing my master's degree and exploring various software development projects.
 -------------------------------------------------------------------------------------------------------------------------------------------
 
