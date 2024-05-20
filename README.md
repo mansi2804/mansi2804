@@ -13,10 +13,6 @@
   
 - 💬 Ask me about anything related to software development, web technologies, or programming languages.
   
-- 📫 How to reach me: patil.mansi.narendra@gmail.com
-                               or
-                      https://www.linkedin.com/in/mansi-patil28/
-  
 - ⚡ Fun fact: I love to dance 💃 and explore new places 🌍!
 
 <h3 align="left">Languages and Tools:</h3>
