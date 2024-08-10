@@ -1,4 +1,13 @@
 # Hi there! 👋
+<div>
+   <h1 align="center"?
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Hi+There!;+I'm+Mansi+Patil!" />
+    </a>
+   </h1>
+
+   <h3 align="center">I'm an aspiring data scientist and a data analyst. </h3>
+</div>
 <h4>Welcome to my GitHub profile!<h4>
   
   <h3 align="center">I’m a student and exploring various software development projects</h3>
