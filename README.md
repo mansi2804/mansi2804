@@ -6,7 +6,7 @@
     </a>
    </h1>
 
-   <h3 align="center">I'm an aspiring data scientist and a data analyst. </h3>
+
 </div>
 <h4>Welcome to my GitHub profile!<h4>
   
