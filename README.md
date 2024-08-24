@@ -84,4 +84,4 @@ Feel free to explore my repositories and connect with me! Let's build something 
 <a href="https://linkedin.com/in/mansi-patil28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mansi-patil28" height="30" width="40" /></a>
 </p>
 
-<p> Thank you </p>
+
