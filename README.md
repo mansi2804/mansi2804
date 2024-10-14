@@ -20,7 +20,7 @@
   
 - 👯 I'm enthusiastic about contributing to an open-source project focused on improving accessibility in software applications, leveraging my expertise in UI/UX design and frontend development to create inclusive user experiences.
   
-- 💬 Ask me about anything related to software development, web technologies, or programming languages.
+- 💬 Ask me about anything related to software development, web technologies, or programming languages. 
   
 - ⚡ Fun fact: I love to dance 💃 and explore new places 🌍!
 
