@@ -11,7 +11,7 @@
 <h4>Welcome to my GitHub profile!<h4>  
   
   <h3 align="center">I’m a student and exploring various software development projects</h3>
-
+ 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🔭  I'm actively engaged in crafting a scalable web application using the MERN stack, sharpening my skills in full-stack development and database management.
