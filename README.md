@@ -7,7 +7,7 @@
    </h1> 
              
                  
-</div>  
+</div>   
 <h4>Welcome to my GitHub profile!<h4>  
    
   <h3 align="center">I’m a student and exploring various software development projects</h3> 
