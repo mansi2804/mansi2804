@@ -14,7 +14,7 @@
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭  I'm actively engaged in crafting a scalable web application using the MERN stack, sharpening my skills in full-stack development and database management.
+- 🔭  I'm actively engaged in crafting a scalable web application using the MERN, MEAN stack, sharpening my skills in full-stack development and database management.
    
 - 🌱 I'm diving into the realm of microservices architecture, learning how to design and deploy resilient and efficient software systems using technologies like Docker and Kubernetes.
   
