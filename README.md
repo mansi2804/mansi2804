@@ -40,7 +40,7 @@
 - [Computerphile](https://www.youtube.com/user/Computerphile) - Computer science topics
 - [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw) - Software engineering career insights
 
-Explore these channels for valuable learning resources!
+Explore these channels for valuable learning resources! 
 
 "🚀 I’m passionate about continuous learning and staying updated with the latest technologies."
 
