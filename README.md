@@ -98,6 +98,13 @@
 | **Design Systems** | Figma Prototyping, Design Tokens, Component Libraries |
 
 ---
+<h3 align="left">📊 GitHub Stats</h3>
+
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi2804&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
   <h3 align="center"> Helpful YouTube Channels 🎥</h3>
   
