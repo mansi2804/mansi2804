@@ -92,10 +92,9 @@
 
 | Domain | Topics |
 |--------|--------|
-| **Backend Engineering** | Flask, FastAPI, API Gateway, Python Optimization |
-| **DevOps** | Docker, GitHub Actions, AWS Lambda & Step Functions |
+| **Backend Engineering** | Flask, FastAPI, Python Optimization |
 | **Frontend** | Advanced TypeScript, UI Animations, Accessibility |
-| **Design Systems** | Figma Prototyping, Design Tokens, Component Libraries |
+| **Design Systems** | Design Tokens, Component Libraries |
 
 ---
 <h3 align="left">📊 GitHub Stats</h3>
