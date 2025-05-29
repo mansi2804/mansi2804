@@ -16,7 +16,7 @@
 - 🧠 Exploring the intersection of **Cloud, AI, and UI/UX** to design impactful digital solutions.
 - 🔭 Currently building: a **Personal Health Hub App** using React, FastAPI, PostgreSQL.
 - 🌱 Learning: Microservices, CI/CD pipelines, and AWS Serverless Framework (Lambda, Step Functions).
-- ✨ Fun Fact: I dance to debug 🕺 
+- ✨ Fun Fact: I dance to debug 🕺
 
 ---
 
