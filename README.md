@@ -7,7 +7,7 @@
    </h1>                                  
 <p align="center">🚀 CS Master's Student | 💻 Software Developer | 🎨 UI/UX Enthusiast | 🔍 Lifelong Learner</p>                         
 </div>           
- 
+  
 ---  
    
 ### 🌟 About Me 
@@ -92,7 +92,7 @@
 
 | Domain | Topics |
 |--------|--------|
-| **Backend Engineering** | Flask, FastAPI, Python Optimization |
+| **Backend Engineering** | Flask, FastAPI, Python Optimization, AWS Step Functions |
 | **Frontend** | Advanced TypeScript, UI Animations, Accessibility |
 | **Design Systems** | Design Tokens, Component Libraries |
 
