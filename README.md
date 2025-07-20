@@ -144,7 +144,7 @@ Explore these blogs for valuable insights and tutorials!
 - [Hacker News](https://news.ycombinator.com/) - Computer science and entrepreneurship discussions
 - [GitHub Blog](https://github.blog/) - GitHub updates and developer news
 
-Stay updated with the latest tech news and trends from these sources!
+Stay updated with the latest tech news and trends from these sources! 
 
 "🚀 Embrace the journey of learning—it's not just about acquiring new skills, but unlocking the potential to turn dreams into reality! 🌟"
 
