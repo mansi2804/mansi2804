@@ -10,7 +10,7 @@
      
 ---   
     
-### 🌟 About Me  
+### 🌟 About Me   
   
 - 👩‍💻 Passionate about building full-stack web applications with clean, scalable code and intuitive UI.
 - 🧠 Exploring the intersection of **Cloud, AI, and UI/UX** to design impactful digital solutions.
