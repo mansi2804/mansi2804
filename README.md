@@ -11,7 +11,7 @@
 ---   
     
 ### 🌟 About Me  
- 
+  
 - 👩‍💻 Passionate about building full-stack web applications with clean, scalable code and intuitive UI.
 - 🧠 Exploring the intersection of **Cloud, AI, and UI/UX** to design impactful digital solutions.
 - 🔭 Currently building: a **Personal Health Hub App** using React, FastAPI, PostgreSQL.
