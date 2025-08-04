@@ -92,7 +92,7 @@
 
 | Domain | Topics |
 |--------|--------|
-| **Backend Engineering** | Flask, FastAPI, Python Optimization, AWS Step Functions |
+| **Backend Engineering** | Flask, FastAPI, AWS Step Functions |
 | **Frontend** | Advanced TypeScript, UI Animations, Accessibility |
 | **Design Systems** | Design Tokens, Component Libraries |
 
