@@ -6,7 +6,7 @@
     </a>    
    </h1>                                  
 <p align="center">🚀 CS Master's Student | 💻 Software Developer | 🎨 UI/UX Enthusiast | 🔍 Lifelong Learner</p>                            
-</div>            
+</div>             
             
 ---          
               
