@@ -88,14 +88,6 @@
   </a>
 </p>
 
-### 🧠 What I’m Learning
-
-| Domain | Topics |
-|--------|--------|
-| **Backend Engineering** | Flask, FastAPI, AWS Step Functions |
-| **Frontend** | Advanced TypeScript, UI Animations, Accessibility |
-| **Design Systems** | Design Tokens, Component Libraries |
-
 ---
 <h3 align="left">📊 GitHub Stats</h3>
   
